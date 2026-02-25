@@ -20,7 +20,7 @@ The application:
 ├── rag_app.py          # Main application
 ├── arabic.txt          # Knowledge base (Arabic text)
 ├── requirements.txt    # Python dependencies
-├── .env                # Environment variables (API key)
+├── .env                # Contains API key (not uploaded)
 └── README.md
 ```
 
